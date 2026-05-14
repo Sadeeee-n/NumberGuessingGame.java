@@ -1,0 +1,22 @@
+# Number Guessing Game
+
+## Overview
+Java-based number guessing game demonstrating core programming logic and user interaction.
+
+## Features
+- Random number generation
+- User input handling
+- Interactive gameplay
+- Conditional logic implementation
+
+## Technologies Used
+- Java
+
+## Purpose
+This project was developed to strengthen foundational Java programming and logical problem-solving skills.
+
+## Future Improvements
+- Difficulty levels
+- Score tracking
+- Graphical user interface
+- Multiplayer functionality
